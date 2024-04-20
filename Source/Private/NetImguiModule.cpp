@@ -47,7 +47,7 @@
 // Misc
 //=================================================================================================
 #include "ImUnrealCommand.h"
-#include "Sample\NetImguiDemoNodeEditor.h"
+#include "Z:\PZ\PZUnrealEngine\Engine\Plugins\PZPlugins\PZUnrealNetImgui\Source\Sample\NetImguiDemoNodeEditor.h"
 #if IM_UNREAL_COMMAND_ENABLED
 static ImUnrealCommand::CommandContext* spImUnrealCommandContext = nullptr;
 #endif
