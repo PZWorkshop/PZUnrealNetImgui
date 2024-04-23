@@ -4,7 +4,7 @@
 #if NETIMGUI_NODE_EDITOR_ENABLED && NETIMGUI_DEMO_IMGUI_ENABLED
 
 #include <array>
-#include "NetImguiDemoNodeEditor.h"
+#include "Sample/NetImguiDemoNodeEditor.h"
 
 #define LOCTEXT_NAMESPACE "NodeEditorDemo"
 

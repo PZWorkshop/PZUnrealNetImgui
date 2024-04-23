@@ -21,7 +21,7 @@
 // You can remove this source file or disable the actor in 'NetImgui.Build.cs'
 //=================================================================================================
 
-#include "NetImguiDemoActor.h"
+#include "Sample/NetImguiDemoActor.h"
 
 #if NETIMGUI_DEMO_ACTOR_ENABLED
 

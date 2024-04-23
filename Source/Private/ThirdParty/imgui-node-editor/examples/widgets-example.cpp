@@ -21,7 +21,7 @@
 //=================================================================================================
 // @EDIT SAMPLE
 #if NETIMGUI_NODE_EDITOR_ENABLED && NETIMGUI_DEMO_IMGUI_ENABLED // Avoid compiling this library when not requested
-#include "Z:\PZ\PZUnrealEngine\Engine\Plugins\PZPlugins\PZUnrealNetImgui\Source\Sample\NetImguiDemoNodeEditor.h"
+#include "Sample\NetImguiDemoNodeEditor.h"
 
 #include <imgui.h>
 #include <imgui_internal.h>
